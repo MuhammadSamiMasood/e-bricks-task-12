@@ -1,0 +1,8 @@
+{
+  "id": 1234,
+  "name": "John",
+  "CNIC": 123456,
+  "rollNumber": "MCSF17A001",
+  "Gender": "Male",
+  "test": "ending"
+}
