@@ -12,7 +12,7 @@ public class Driver {
 
         Person person = objectMapper.readValue(new File("C:\\Users\\Mesmer\\IdeaProjects\\Task1_(Shape)\\src\\main\\java\\JSONPractice\\JSONData"), Person.class);
 
-        System.out.println(person.getPersonId());
+        System.out.println(""+person.getPersonId());
         System.out.println(person.getName());
         System.out.println(person.getPersonCNIC());
         System.out.println(person.getR());
